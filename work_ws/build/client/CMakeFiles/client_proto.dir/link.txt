@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libclient_proto.so -o /home/qiaoxu/Documents/Project/work_ws/devel/lib/libclient_proto.so CMakeFiles/client_proto.dir/home/qiaoxu/Documents/Project/work_ws/devel/include/proto/agreement.pb.cc.o -Wl,-rpath,/usr/local/lib: /usr/local/lib/libprotobuf.so 
