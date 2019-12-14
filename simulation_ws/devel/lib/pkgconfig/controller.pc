@@ -1,0 +1,8 @@
+prefix=/home/qiaoxu/Documents/Project/simulation_ws/devel
+
+Name: controller
+Description: Description of controller
+Version: 0.0.0
+Cflags: -I/home/qiaoxu/Documents/Project/simulation_ws/src/controller/include
+Libs: -L/home/qiaoxu/Documents/Project/simulation_ws/devel/lib 
+Requires: 

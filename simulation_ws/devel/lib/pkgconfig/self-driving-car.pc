@@ -1,0 +1,8 @@
+prefix=/home/qiaoxu/Documents/Project/simulation_ws/devel
+
+Name: self-driving-car
+Description: Description of self-driving-car
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/qiaoxu/Documents/Project/simulation_ws/devel/lib 
+Requires: 

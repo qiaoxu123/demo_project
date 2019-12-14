@@ -1,0 +1,8 @@
+prefix=/home/qiaoxu/Documents/Project/simulation_ws/devel
+
+Name: simulation_core
+Description: Description of simulation_core
+Version: 0.0.0
+Cflags: -I/home/qiaoxu/Documents/Project/simulation_ws/src/simulation_core/include
+Libs: -L/home/qiaoxu/Documents/Project/simulation_ws/devel/lib 
+Requires: 

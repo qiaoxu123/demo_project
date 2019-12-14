@@ -1,0 +1,2 @@
+controller:simulation_core
+-DCATKIN_DEVEL_PREFIX=/home/qiaoxu/Documents/Project/simulation_ws/devel -DCMAKE_INSTALL_PREFIX=/home/qiaoxu/Documents/Project/simulation_ws/install -G Unix Makefiles
